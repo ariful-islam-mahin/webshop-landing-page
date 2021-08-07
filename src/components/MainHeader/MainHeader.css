@@ -1,11 +1,11 @@
-#main-header {
+/* #main-header {
     background: url("https://i.ibb.co/pzJbZPr/image-32image.png") no-repeat center !important;
     background-size: cover !important;
     height: 411px !important;
     position: relative !important
-}
+} */
 
-.main-header-text {
+/* .main-header-text {
     max-width: 620px !important;
     position: absolute;
     top: 50%;
@@ -13,4 +13,4 @@
     transform: translate(-50%, -50%);
     background: #011b7b59;
     padding: 3.5rem!important;
-}
+} */
