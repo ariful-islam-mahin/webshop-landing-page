@@ -10,7 +10,7 @@ const Products = () => {
                         <p>Treat yourself to some of our brand new autumn collection - all with wonderful colours surrounding you.</p>
                         <button type="button" className="btn rounded-pill btn-outline-dark px-4 fw-bold">PURCHASE NOW</button>
                    </div>
-                    <img src="https://i.im.ge/2021/08/07/0QT6G.png" alt="" />
+                    <img src="https://i.ibb.co/dPFymPd/Rectangle-19tile1-img-3.png" alt="" />
                 </div>
                 <div className="col-sm">
                     <div className="p-5 m-3">
@@ -18,7 +18,7 @@ const Products = () => {
                         <p>Treat yourself to some of our brand new autumn collection - all with wonderful colours surrounding you.</p>
                         <button type="button" className="btn rounded-pill btn-outline-dark px-4 fw-bold">PURCHASE NOW</button>
                    </div>
-                    <img src="https://i.im.ge/2021/08/07/0QoVx.png" alt="" />
+                    <img src="https://i.ibb.co/GP4hfkL/Rectangle-19.png" alt="" />
                 </div>
             </div>
         </section>
