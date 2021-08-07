@@ -1,0 +1,16 @@
+.main-header {
+    background: url("https://i.im.ge/2021/08/07/iC8lD.png") no-repeat center;
+    background-size: cover;
+    height: 411px;
+    position: relative
+}
+
+.main-header-text {
+    max-width: 620px !important;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #011b7b59;
+    padding: 3.5rem!important;
+}
